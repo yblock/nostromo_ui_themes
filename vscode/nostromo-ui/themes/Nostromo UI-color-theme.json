@@ -27,7 +27,7 @@
         "tab.activeBackground": "#161f25",
         "tab.activeForeground": "#A5FBFF",
         "tab.inactiveBackground": "#141d22",
-        "tab.activeBorder": "#365878",
+        "tab.activeBorder": "#154547",
 
         // Title bar
         "titleBar.activeBackground":"#141D22",
@@ -57,12 +57,21 @@
         "list.errorForeground": "#913f4c",
         "list.warningForeground": "#767742",
 
-
         "sideBarSectionHeader.background": "#141D22",
         "sideBarSectionHeader.foreground": "#A5FBFF",
 
-        "focusBorder": "#365878",
+        "focusBorder": "#154547",
         "icon.foreground": "#365878",
+
+        // Widgets and inputs
+        "editorWidget.background":  "#141D22",
+        "editorWidget.foreground": "#91b0b1",
+        "editorWidget.resizeBorder": "#154547",
+
+        "debugToolBar.background": "#141D22",
+
+        "input.background": "#141D22",
+        "input.foreground": "#E1FFE5",
 
         // Scroll
         "scrollbarSlider.background": "#34a3df1d",
@@ -72,11 +81,13 @@
 
         // Terminal and stuff
         "panel.background": "#141D22",
-        "panelTitle.activeBorder": "#9fe1e3",
+        "panelTitle.activeBorder": "#154547",
         "panelTitle.activeForeground": "#9fe1e3",
         "terminal.foreground": "#34A2DF",
 
         "statusBar.background": "#141D22",
+        "statusBar.noFolderBackground": "#141D22",
+        "statusBar.debuggingBackground":  "#141D22",
         "statusBar.foreground": "#8fd8db",
 
         "badge.foreground": "#81bad9",
