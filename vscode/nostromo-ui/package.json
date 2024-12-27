@@ -2,7 +2,7 @@
   "name": "nostromo-ui",
   "displayName": "Nostromo UI",
   "description": "Color Theme based on some of the landing UI from Alien's Nostromo spacecraft.",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "publisher": "thomasgodden",
   "repository": {
     "type": "git",
