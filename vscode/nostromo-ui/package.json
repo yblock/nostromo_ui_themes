@@ -1,0 +1,22 @@
+{
+  "name": "nostromo-ui",
+  "displayName": "Nostromo UI",
+  "description": "Color Theme based on some of the landing UI from Alien's Nostromo spacecraft.",
+  "version": "0.0.1",
+  "publisher": "thomasgodden",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nostromo UI",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nostromo UI-color-theme.json"
+      }
+    ]
+  }
+}
