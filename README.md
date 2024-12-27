@@ -2,7 +2,7 @@
 
 This is a collection of app themes based on the landing gui from Alien's Nostromo spacecraft.
 
-![alt text](https://github.com/LegoYoda112/nostromo_ui_themes/blob/main/vscode/nostromo-ui/nostromo_gui.jpg?raw=true)
+<img src="https://github.com/LegoYoda112/nostromo_ui_themes/blob/main/vscode/nostromo-ui/nostromo_gui.jpg?raw=true" width="300"/>
 
 # VSCode
 
@@ -12,7 +12,7 @@ This is a collection of app themes based on the landing gui from Alien's Nostrom
 [VSCode Marketplace Link](https://marketplace.visualstudio.com/items?itemName=thomasgodden.nostromo-ui)
 
 # KiCad
-![](https://github.com/LegoYoda112/nostromo_ui_themes/blob/main/vscode/kicad.kicad-sch.png?raw=true)
+![](https://github.com/LegoYoda112/nostromo_ui_themes/blob/main/kicad/kicad-sch.png?raw=true)
 
 ## Install
 - Download theme json from `kicad/nostromo-ui.json`.
