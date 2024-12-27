@@ -8,4 +8,4 @@ This theme is designed to be mostly mono-hue with minimal distractions or colors
 
 
 ## Source repository
-- 
+- [github.com/LegoYoda112/nostromo_ui_themes](https://github.com/LegoYoda112/nostromo_ui_themes)

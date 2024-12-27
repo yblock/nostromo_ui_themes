@@ -4,6 +4,10 @@
   "description": "Color Theme based on some of the landing UI from Alien's Nostromo spacecraft.",
   "version": "0.0.1",
   "publisher": "thomasgodden",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LegoYoda112/nostromo_ui_themes"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
