@@ -46,7 +46,7 @@
 
         // Side bar
         "sideBar.background": "#141D22",
-        "sideBar.foreground": "#3a4c4e",
+        "sideBar.foreground": "#91b0b1",
         "sideBar.border": "#ff000000",
         "sideBarTitle.foreground": "#365878",
         "list.hoverBackground":"#A5FBFF11",
@@ -98,7 +98,7 @@
 
 
     "semanticTokenColors": {
-        "comment": "#3a4c4e",
+        "comment": "#3df2ad",
 
         "variable": "#A5FBFF",
         "parameter": "#92dde1",
@@ -126,7 +126,7 @@
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#3a4c4e"
+                "foreground": "#3df2ad"
             }
         },
         {
